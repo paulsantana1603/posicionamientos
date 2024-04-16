@@ -1,0 +1,36 @@
+h1,p,div{
+    
+    text-align: left;
+    color: cornflowerblue;
+    padding: 10px;
+    width: 50%;
+    display: inline;
+}
+
+h2, div{
+    text-align: right;
+    color: cornflowerblue;
+    padding: 10px;
+    width: 50%;
+    display: inline;
+}
+a{
+    border: 1px solid red;
+    text-align: right;
+    display: inline;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+div.menu{
+    margin-left: 900px;
+}
+
+
+
+
+
+
+
